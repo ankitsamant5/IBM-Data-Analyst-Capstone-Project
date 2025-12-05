@@ -49,7 +49,7 @@ Shifts in database & platform preferences
 
 Demographics influencing technology adoption
 
-Deliverables
+## Deliverables
 
 Jupyter Notebook with data analysis & visualizations
 
@@ -57,6 +57,6 @@ Interactive dashboards (PDF export from Cognos/Looker Studio)
 
 Final presentation slides summarizing insights
 
-Outcome
+## Outcome
 
 Hands-on experience in data wrangling, visualization, and dashboard building, while developing skills in data storytelling and insight communication for strategic decision-making.
