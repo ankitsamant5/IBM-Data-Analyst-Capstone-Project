@@ -3,11 +3,11 @@ Analyzed Stack Overflow Developer Survey using SQL &amp; Python to uncover tech 
 
 Stack Overflow Developer Survey Analysis
 
-Overview
+## Overview
 
 This project analyzes the Stack Overflow Developer Survey dataset to uncover current and future technology trends. The goal is to provide insights into programming languages, databases, platforms, and frameworks that developers use today and aim to learn in the future.
 
-Tools & Technologies
+## Tools & Technologies
 
 SQL → Data extraction from relational database
 
@@ -19,7 +19,7 @@ IBM Cognos Analytics / Google Looker Studio → Interactive dashboards
 
 PowerPoint → Final presentation of insights
 
-Project Workflow
+## Project Workflow
 
 Data Collection → API access & web scraping
 
@@ -39,7 +39,7 @@ Demographics
 
 Presentation → Insights compiled into a professional PowerPoint report
 
-Key Insights
+## Key Insights
 
 Popular languages and frameworks in current use
 
